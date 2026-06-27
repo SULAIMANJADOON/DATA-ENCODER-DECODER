@@ -70,4 +70,6 @@ It demonstrates how data can be encoded, stored, decoded, and tracked within a s
 
 Important Note:
 This tool is created by a student (not a professional developer or cybersecurity engineer).
-It is intended for educational purposes only and demonstrates basic encoding and system design concepts. It does not provide cryptographic security or protection against attacks
+It is intended for educational purposes only and demonstrates basic encoding and system design concepts. It does not provide cryptographic security or protection against attacks.
+
+I am aspiring cybersecurity engineer currently learning though building small tools and projects. I would be very grateful for feedback from my seniors and experienced developers, as it will help me improve my understanding and skills.
